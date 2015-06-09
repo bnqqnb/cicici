@@ -8,4 +8,6 @@
     echo 'bnqqnb2';
     echo 'bnqqnb3';
     echo 'bnqqnb4';
+    
+    echo 'GREAT';
 ?>
