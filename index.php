@@ -15,4 +15,8 @@
     echo 'HOWARD CICICI';
     echo 'BBBB';
     
+    
+    echo 'MY FUNCTION2';
+    echo 'VERY GREAT FUNCTION';
+    
 ?>
