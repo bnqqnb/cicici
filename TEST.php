@@ -4,4 +4,5 @@
     echo 'LIGHT';
     echo 'LIGHT2';
     echo 'LIGHT3';
-    echo 'LI4';
+    echo 'LIGHT4';
+    echo 'LIGHT5';
