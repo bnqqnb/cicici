@@ -11,8 +11,6 @@
     
     
     
-    
-    
     echo 'AAAA';
     echo 'GREAT';
 ?>
