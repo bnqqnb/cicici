@@ -3,3 +3,4 @@
     echo 'CCCDDDEEE';
     echo 'GIGIGIGI';
     echo 'GREAT';
+    echo 'MASTER1';
