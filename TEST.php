@@ -10,3 +10,6 @@
     echo 'LIGHT7';
     echo 'LIGHT8';
     echo 'LIGHT9';
+    
+    
+    echo 'WHITE BUBBLE';
