@@ -3,5 +3,3 @@
     echo 'CCCDDDEEE';
     echo 'MMMM';
     echo 'VVVV';
-    echo 'GIGIGIGI';
-    echo 'GREAT';
