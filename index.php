@@ -10,9 +10,4 @@
     echo 'bnqqnb4';
     
     echo 'GREAT';
-    
-    echo 'MASTER1';
-    echo 'MASTER2';
-    echo 'MASTER3';
-    
 ?>
