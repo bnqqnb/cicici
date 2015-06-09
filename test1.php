@@ -7,3 +7,4 @@
     echo 'MASTER1';
     echo 'MMMM';
     echo 'VVVV';
+    echo 'CCCDDDEEE';
